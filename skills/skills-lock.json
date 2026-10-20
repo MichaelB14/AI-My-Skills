@@ -4,7 +4,11 @@
    "sync-devops-tickets": {
   "source": "MichaelB14/AI-Project-Skills",
   "sourceType": "github",
-  "skillPath": "skills/myskills//SKILL.md"
+  "skillPath": "skills/spec-driven-development//SKILL.md"
+}   "reload-docs": {
+  "source": "MichaelB14/AI-Project-Skills",
+  "sourceType": "github",
+  "skillPath": "skills/reload-docs//SKILL.md"
 }
 
   }
