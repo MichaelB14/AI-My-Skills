@@ -1,15 +1,15 @@
 {
   "version": 1,
   "skills": {
-   "sync-devops-tickets": {
-  "source": "MichaelB14/AI-Project-Skills",
-  "sourceType": "github",
-  "skillPath": "skills/spec-driven-development//SKILL.md"
-}   "reload-docs": {
-  "source": "MichaelB14/AI-Project-Skills",
-  "sourceType": "github",
-  "skillPath": "skills/reload-docs//SKILL.md"
-}
-
+    "sync-devops-tickets": {
+      "source": "MichaelB14/AI-My-Skills",
+      "sourceType": "github",
+      "skillPath": "skills/.agents/skills/spec-driven-development/SKILL.md"
+    },
+    "reload-docs": {
+      "source": "MichaelB14/AI-My-Skills",
+      "sourceType": "github",
+      "skillPath": "skills/.agents/skills/reload-docs/SKILL.md"
+    }
   }
 }
