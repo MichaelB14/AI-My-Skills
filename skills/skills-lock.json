@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+   "sync-devops-tickets": {
+  "source": "MichaelB14/AI-Project-Skills",
+  "sourceType": "github",
+  "skillPath": "skills/myskills//SKILL.md"
+}
+
+  }
+}
